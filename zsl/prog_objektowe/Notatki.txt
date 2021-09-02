@@ -1,0 +1,11 @@
+Notatka z lekjcji 1:
+
+1.Typy zmiennych:
+-Void
+-Logiczne
+-Całkowite
+-Zmiennoprzecinkowe
+
+2.Int rezerwuje 4 bajty w pamięci czyli 32 bitów.
+
+3.
