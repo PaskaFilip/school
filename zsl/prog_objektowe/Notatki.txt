@@ -1,4 +1,4 @@
-Notatka z lekjcji 1:
+Notatka z lekjcji 02.09.2021:
 
 1.Typy zmiennych:
 -Void
@@ -6,6 +6,18 @@ Notatka z lekjcji 1:
 -Całkowite
 -Zmiennoprzecinkowe
 
-2.Int rezerwuje 4 bajty w pamięci czyli 32 bitów.
+2.Int rezerwuje 4 bajty w pamięci czyli 32 bity.
 
-3.
+3.Modzfikatorz tzpu INT:
+-short
+-long
+-unsigned
+-signed
+
+4.Etapy tworzenia programu komputerowego:
+-Zdefiniowanie problemu do rozwiązania
+-Planowanie rozwiązania
+-Kodowanie programu
+-Testowanie programu
+-Dokumentowanie programu
+-Konserwacja
