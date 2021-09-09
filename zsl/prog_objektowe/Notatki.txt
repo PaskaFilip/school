@@ -21,3 +21,7 @@ Notatka z lekjcji 02.09.2021:
 -Testowanie programu
 -Dokumentowanie programu
 -Konserwacja
+
+Notatka z lekcji 09.09.2021:
+
+1.łączenie stringów - używamy +
